@@ -1,4 +1,4 @@
-//program to find out size of data type
+//5)	C Program to Find the Size of int, float, double and char
 #include<stdio.h>
 
 int main()
