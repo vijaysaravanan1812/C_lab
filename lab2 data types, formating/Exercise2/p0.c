@@ -1,3 +1,5 @@
+//progrmam to demostrate implicit type cast
+
 #include<stdio.h>
 void main ()
 {

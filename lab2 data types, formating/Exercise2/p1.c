@@ -7,6 +7,6 @@ int main()
     double number2 = 12.4;
 
     printf("number1 = %f  \n", number1);// number printed in float
-    printf("number2 = %#x \n", number2);// number printed in double
+    printf("number2 = %lf \n", number2);// number printed in double
     return 0;
 }
